@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started: -->
 
+
 - 🔭 I’m currently working on Monitoring system.
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on prodcast
 - 🤔 I’m looking for help with Arduino project.
 - 💬 Ask me about Football.
@@ -15,6 +16,9 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I play DOTA 2
 
 <img src="https://github-readme-stats.vercel.app/api?username=grootste&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+About me: 😀 <br>
+I am a final year Computer Science and Engineering Student at Vellore Institute of Technology, who is enthusiastic and eager to work on different projects. I am intrigued to work on Autonomous systems.
 
 Connect with me:<br>
 [Twitter](https://twitter.com/therealbaibhav)<br>
