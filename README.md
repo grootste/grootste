@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on prodcast
 - 🤔 I’m looking for help with Arduino project.
-- 💬 Ask me about anything.
+- 💬 Ask me about Football.
 - 📫 How to reach me: Twitter - @therealbaibhav
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play DOTA 2
