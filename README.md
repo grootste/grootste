@@ -10,9 +10,12 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on prodcast
 - 🤔 I’m looking for help with Arduino project.
 - 💬 Ask me about Football.
-- 📫 How to reach me: Twitter - @therealbaibhav
+- 📫 How to reach me: [Twitter - @therealbaibhav](https://twitter.com/therealbaibhav)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play DOTA 2
 
 <img src="https://github-readme-stats.vercel.app/api?username=grootste&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+Connect with me:<br>
+[Twitter -   @therealbaibhav](https://twitter.com/therealbaibhav)<br>
+[Instagram - @baibhav.singh](https://www.instagram.com/baibhav.singh)
