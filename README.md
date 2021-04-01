@@ -22,5 +22,6 @@ I am a final year Computer Science and Engineering Student at Vellore Institute 
 
 Connect with me:<br>
 [Twitter](https://twitter.com/therealbaibhav)<br>
+[Facebook](https://www.facebook.com/baibhavgrootste)<br>
 [Instagram](https://www.instagram.com/baibhav.singh)<br>
 [Portfolio](https://grootste.github.io/baibhavsingh/)
