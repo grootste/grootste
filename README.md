@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 
 - 🔭 I’m currently working on Monitoring system.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning new skills.
 - 👯 I’m looking to collaborate on prodcast
 - 🤔 I’m looking for help with Arduino project.
 - 💬 Ask me about Football.
