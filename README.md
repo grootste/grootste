@@ -20,8 +20,13 @@ Here are some ideas to get you started: -->
 About me: 😀 <br>
 I am a final year Computer Science and Engineering Student at Vellore Institute of Technology, who is enthusiastic and eager to work on different projects. I am intrigued to work on Autonomous systems.
 
+Some of my works are: <br>
+[Chat App](https://baibhav-chat-app.herokuapp.com)
+[Weather App](https://baibhav-weather-application.herokuapp.com)
+
 Connect with me:<br>
 [Twitter](https://twitter.com/therealbaibhav)<br>
 [Facebook](https://www.facebook.com/baibhavgrootste)<br>
 [Instagram](https://www.instagram.com/baibhav.singh)<br>
 [Portfolio](https://grootste.github.io/baibhavsingh/)
+
