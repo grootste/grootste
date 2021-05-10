@@ -22,7 +22,7 @@ I am a final year Computer Science and Engineering Student at Vellore Institute 
 
 Some of my works are: <br>
 •[Chat App](https://baibhav-chat-app.herokuapp.com)<br>
-•[Weather App](https://baibhav-weather-application.herokuapp.com).
+•[Weather App](https://baibhav-weather-application.herokuapp.com).<br>
 
 
 Connect with me:<br>
