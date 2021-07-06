@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 
-- 🔭 I’m currently working for [Comitium](http://comitium.live/).
+<!--- 🔭 I’m currently working for [Comitium](http://comitium.live/).-->
 - 🌱 I’m currently learning React Js.
 - 👯 I’m looking to collaborate on prodcast
 - 🤔 I’m looking for help with Arduino project.
