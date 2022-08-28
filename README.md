@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 <img src="https://github-readme-stats.vercel.app/api?username=grootste&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 About me: 😀 <br>
-I am a final year Computer Science and Engineering Student at Vellore Institute of Technology, who is enthusiastic and eager to work on different projects. I am intrigued to work on Autonomous systems.
+Experienced Associate Software Quality Assurance Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Software development lifecycle and testing. Strong engineering professional with a Bachelor's degree focused in Computer Science and Engineering from Vellore Institute of Technology.
 
 Some of my works are: <br>
 •[Chat App](https://baibhav-chat-app.herokuapp.com)<br>
