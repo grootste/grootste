@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 
-  🔭 I’m currently working for Cedar Gate Technologies as Associate Software QA Engineer.
+  🔭 I’m currently working for Cedar Gate Technologies as Software QA Engineer.
 - 🌱 I’m currently learning React Js.
 - 👯 I’m looking to collaborate on prodcast
 - 🤔 I’m looking for help with Arduino project.
