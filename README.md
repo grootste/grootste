@@ -30,4 +30,5 @@ Connect with me:<br>
 •[Facebook](https://www.facebook.com/baibhavgrootste)<br>
 •[Instagram](https://www.instagram.com/baibhav.singh)<br>
 •[Portfolio](https://grootste.github.io/baibhavsingh/)
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="lilyturner379rfu25" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/lilyturner379rfu25?trk=profile-badge">Baibhav S.</a></div>
+              
