@@ -29,6 +29,6 @@ Connect with me:<br>
 •[Twitter](https://twitter.com/therealbaibhav)<br>
 •[Facebook](https://www.facebook.com/baibhavgrootste)<br>
 •[Instagram](https://www.instagram.com/baibhav.singh)<br>
-•[Portfolio](https://grootste.github.io/baibhavsingh/)
-•[Linkedin](www.linkedin.com/in/baibhav-singh-grootste)
+•[Portfolio](https://grootste.github.io/baibhavsingh/)<br>
+•[Linkedin](https://www.linkedin.com/in/baibhav-singh-grootste)
 
