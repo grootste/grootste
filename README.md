@@ -20,7 +20,6 @@ I'm a **Senior QA Automation Engineer** with **4+ years of experience** building
 I hold a **B.Tech in Computer Science & Engineering** from **Vellore Institute of Technology (2021)**
 
 - 🧠 Research interests: **Intelligent Systems · Robotics · HPC/CUDA · AI-Driven Software Engineering**
-- 🎓 Pursuing **graduate studies** in Software Engineering / Intelligent Systems
 - 🌍 Based in **Kathmandu, Nepal** | Working remotely with global teams
 - 📫 Reach me at: **singh.baibhav321@gmail.com**
 
