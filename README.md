@@ -15,11 +15,10 @@
 
 ## 🚀 About Me
 
-I'm a **Senior QA Automation Engineer** with **4+ years of experience** building test automation frameworks, integrating AI into QA pipelines, and shipping quality software at scale. Currently at **Propertystack Software** (Brisbane, AU), where I architect Playwright-based frameworks powered by AI agents for test planning, script generation, and self-healing locator strategies.
+I'm a **Senior QA Automation Engineer** with **4+ years of experience** building test automation frameworks, integrating AI into QA pipelines, and shipping quality software at scale. I architect Playwright-based frameworks powered by AI agents for test planning, script generation, and self-healing locator strategies.
 
-I hold a **B.Tech in Computer Science & Engineering** from **Vellore Institute of Technology (2021)**, and my APS certificate has been evaluated for graduate study in Germany.
+I hold a **B.Tech in Computer Science & Engineering** from **Vellore Institute of Technology (2021)**
 
-- 🔭 Currently building **AI-augmented QA frameworks** with Playwright + AI Agents at Propertystack
 - 🧠 Research interests: **Intelligent Systems · Robotics · HPC/CUDA · AI-Driven Software Engineering**
 - 🎓 Pursuing **graduate studies** in Software Engineering / Intelligent Systems
 - 🌍 Based in **Kathmandu, Nepal** | Working remotely with global teams
@@ -90,7 +89,7 @@ Designed a sensor-based assistive navigation device using **ultrasonic and water
 ---
 
 ### 🎭 [Playwright Automation Framework](https://github.com/grootste/playwright-framework)
-> **Professional Project · Propertystack · Playwright · TypeScript · AI Agents · CI/CD**
+> **Professional Project · · Playwright · TypeScript · AI Agents · CI/CD**
 
 Production-grade Playwright test automation framework built from scratch at Propertystack, incorporating **AI Agents for test planning, script generation, and self-healing locators**. Includes 100+ reusable page functions, parallel execution, and a 5-step locator strategy.
 
@@ -112,22 +111,7 @@ Production-grade Playwright test automation framework built from scratch at Prop
 
 ---
 
-## 🏆 Highlights
-
-| Metric | Achievement |
-|---|---|
-| 🧪 Test Coverage Scaled | 29% → **82%** at Cedar Gate Technologies |
-| 🐛 Bugs Caught | **150+ bugs per feature** cycle at Propertystack |
-| 🔒 Security | **600+ SQL injection vulnerabilities** identified and remediated |
-| 📦 Test Cases | **500+ executed per feature cycle**; 75% of 15,000 cases automated in 1 year |
-| 👥 Mentorship | Mentored **5 junior QA engineers** and authored 10+ org-wide QA guidelines |
-| 🌐 Integrations | Validated payment flows across **2 countries** with zero security vulnerabilities at release |
-
----
-
 ## 📜 Certifications
-
-- 🎓 **IELTS Academic** — Band 7.0
 - 🤖 **Supervised Machine Learning** — Coursera (80% accuracy gain, 45% classification efficiency boost)
 - 🔀 **Divide and Conquer, Sorting & Searching, Randomized Algorithms** — Stanford / Coursera
 - ⚡ **Fundamentals of Parallelism on Intel Architecture** — Intel / Coursera
